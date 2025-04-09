@@ -1,0 +1,6 @@
+@AspNetWebApiEntityFrameworkBackend_HostAddress = http://localhost:5255
+
+GET {{AspNetWebApiEntityFrameworkBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
