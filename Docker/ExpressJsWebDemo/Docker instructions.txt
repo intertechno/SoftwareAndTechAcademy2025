@@ -1,0 +1,3 @@
+docker build -t expressjs-web-demo-2025 .
+
+docker run -p 3000:3000 expressjs-web-demo-2025
