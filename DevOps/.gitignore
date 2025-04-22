@@ -1,0 +1,6 @@
+AspNetWebDemo/bin/
+AspNetWebDemo/obj/
+/AspNetWebDemo/.vs/AspNetWebDemo
+/AspNetWebDemoTests/bin/Debug/net9.0
+/AspNetWebDemoTests/obj
+/AspNetWebDemo/.vs/ProjectEvaluation
